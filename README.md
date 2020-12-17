@@ -643,6 +643,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Data Platform at Netflix](https://www.youtube.com/watch?v=CSDIThSwA7s)
 	* [Data Platform at Flipkart](https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196)
 	* [Data Platform at Coupang](https://medium.com/coupang-tech/evolving-the-coupang-data-platform-308e305a9c45)
+	* [Data Platform at DoorDash](https://doordash.engineering/2020/09/25/how-doordash-is-scaling-its-data-platform/)
 	* [Data Platform at Khan Academy](http://engineering.khanacademy.org/posts/khanalytics.htm)
 	* [Data Infrastructure at Airbnb](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c)
 	* [Data Infrastructure at LinkedIn](https://www.infoq.com/presentations/big-data-infrastructure-linkedin)
@@ -751,6 +752,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Music Personalization at Spotify](https://labs.spotify.com/2016/08/07/commodity-music-ml-services/)
 	* [Deep Learning for Domain Name Valuation at GoDaddy](https://sg.godaddy.com/engineering/2019/07/26/domain-name-valuation/)
 	* [Similarity Clustering to Catch Fraud Rings at Stripe](https://stripe.com/blog/similarity-clustering)
+	* [Personalized Search at Etsy](https://codeascraft.com/2020/10/29/bringing-personalized-search-to-etsy/)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
